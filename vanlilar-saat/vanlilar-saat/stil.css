@@ -1,0 +1,1100 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F7F7F7;
+}
+.banner-ust
+{
+    width: 100%;
+    height: 40px;
+    background-color: #F7F7F7;
+}
+.ust-icerik-1 {
+    width: 1280px;
+    margin: auto;
+}
+.ust-icerik-1 p {
+    cursor: pointer;
+    float: right;
+    padding-right: 25px;
+}
+.ust-icerik-1 p:hover {
+    color: #ED1921;
+}
+.banner {
+    background-color: white;
+    width: 100%;
+    height: 300px;
+
+}
+.banner-icerik {
+    background-color: white;
+    padding-top: 30px;
+    width: 1280px;
+    margin: auto;
+    height: 265px;
+}
+.logo {
+    width: 400px;
+    height: 100px;
+}
+.logo img{
+    width: 400px;
+    height: 100px;
+}
+.arama  {
+    margin-left: 600px;
+    margin-top: -60px;
+    width: 500px;
+    height: 100px;
+    float: left;
+
+}
+.arama input {
+    margin-left: -30px;
+    width: 200px;
+    height: 35px;
+    border: 1px solid #CCCCCC;
+}
+.arama-butonu {
+    float: left;
+    width: 35px;
+    height: 36px;
+}
+.arama-butonu img{
+    cursor: pointer;
+    z-index: 1;
+    margin-left: 210px;
+    float: left;
+    width: 40px;
+    height: 40px;
+}
+.sepetim {
+    margin-top: -60px;
+    margin-left: 1000px;
+}
+.sepetim img{
+    width: 200px;
+    height: 36px;
+}
+.menu {
+    float: left;
+    width: 1280px;
+    background-color: #B83928;
+}
+.anasayfa {
+    cursor: pointer;
+    float: left;
+    padding-left: 15px;
+    padding: 20px;
+    background-color: #B83928;
+    color: white;
+    border-right: 1px solid #E06150;
+}
+.anasayfa:hover {
+    background-color: #912D1E;
+}
+.icerik {
+    width: 1280px;
+    margin: auto;
+    background-color: white;
+}
+.slayt {
+    width: 1280px;
+    margin: auto;
+    background-color: #F7F7F7;
+
+}
+.slayt img {
+    margin-top: 25px;
+    width: 1280px;
+}
+.markalar {
+    width: 1280px;
+    background-color: white;
+    margin: auto;
+}
+.seiko {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin: 25px;
+   
+}
+.seiko img {
+    width: 150px;
+    height: 150px;
+    
+}
+.raymond {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 200px;
+    margin-top: -176px;
+}
+.raymond img {
+    width: 150px;
+    height: 150px;
+}
+.eterna {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 375px;
+    margin-top: -150px;
+}
+.eterna img {
+    width: 150px;
+    height: 150px;
+}
+.gcguess {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 550px;
+    margin-top: -153px;
+}
+.gcguess img {
+    width: 150px;
+    height: 150px;
+}
+.emporio {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 730px;
+    margin-top: -153px;
+}
+.emporio img {
+    width: 150px;
+    height: 150px;
+}
+.michael {
+    width: 150px;
+    height: 155px;
+    border: 1px solid #CCCCCC;
+    margin-left: 900px;
+    margin-top: -153px;
+}
+.michael img {
+    width: 150px;
+    height: 150px;
+}
+.guess {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 1080px;
+    margin-top: -153px;
+}
+.guess img {
+    width: 150px;
+    height: 150px;
+}
+.diesel {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin: 25px;
+}
+.diesel img {
+    width: 150px;
+    height: 150px;
+}
+.tommy {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 200px;
+    margin-top: -176px;
+    
+}
+.tommy img {
+    width: 150px;
+    height: 150px;
+}
+.fossil {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 375px;
+    margin-top: -150px;
+}
+.fossil img {
+    width: 150px;
+    height: 150px;
+}
+.lacoste {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 550px;
+    margin-top: -153px;
+}
+.lacoste img{
+    width: 150px;
+    height: 150px;
+}
+.wainer {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 730px;
+    margin-top: -153px;
+}
+.wainer img{
+    width: 150px;
+    height: 150px;
+}
+.nacar {
+    width: 150px;
+    height: 155px;
+    border: 1px solid #CCCCCC;
+    margin-left: 900px;
+    margin-top: -153px;
+}
+.nacar img{
+    width: 150px;
+    height: 150px;
+}
+.beverly {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 1080px;
+    margin-top: -153px;
+}
+.beverly img {
+    width: 150px;
+    height: 150px;
+}
+.quantum {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin: 25px;
+}
+.quantum img {
+    width: 150px;
+    height: 150px;
+}
+.maurice {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 200px;
+    margin-top: -176px;
+    
+}
+.maurice img {
+    width: 150px;
+    height: 150px;
+}
+.wesse {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 375px;
+    margin-top: -150px;
+}
+.wesse img {
+    width: 150px;
+    height: 150px;
+}
+.versace {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 550px;
+    margin-top: -153px;
+}
+.versace img{
+    width: 150px;
+    height: 150px;
+}
+.welder {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 730px;
+    margin-top: -153px;
+}
+.welder img{
+    width: 150px;
+    height: 150px;
+}
+.jacques {
+    width: 150px;
+    height: 155px;
+    border: 1px solid #CCCCCC;
+    margin-left: 900px;
+    margin-top: -153px;
+}
+.jacques img{
+    width: 150px;
+    height: 150px;
+}
+.gant {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+    margin-left: 1080px;
+    margin-top: -153px;
+}
+.gant img {
+    width: 150px;
+    height: 150px;
+}
+.cok-satanlar {
+    background-color: #C0392B;
+    width: 1280px;
+    margin: auto;
+    color: white;
+    height: 40px;
+    padding: 5px;
+    padding-right: 0;
+
+}
+.oklar {
+    margin-top: -50px;
+    margin-left: 1150px;
+}
+.oklar img {
+    cursor: pointer;
+    width: 35px;
+    height: 35px;
+}
+.cok-satanlar-1 {
+    margin-top: 30px;
+    margin-left: 70px;
+    border: 1px solid #CCCCCC;
+    background-color: white;
+    width: 360px;
+    height: 630px;
+}
+.cok-satanlar-1 img {
+    margin-top: 12px;
+    margin-left: 35px;
+    width: 300px;
+    height: 350px;
+
+}
+.cs-urun-bilgisi-1 {
+    padding: 25px;
+}
+.indirim-fiyati{
+    color: #C0392B;
+    font-size: 24px;
+}
+.gercek-fiyati {
+    font-size: 18px;
+    color: gray;
+    text-decoration: line-through;
+}
+.cs-gercek-fiyati-1 {
+    margin-left: 120px;
+    margin-top: -20px; 
+} 
+.cok-satanlar-buton img {
+    float: left;
+    width: 60px;
+    height: 40px;
+    margin-left: 0;
+}
+.sepetim-buton input {
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 100px;
+    height: 40px;
+    background-color: #C0392B;
+    color: white;
+    text-align: center;
+    border: none;
+}
+.sepetim-buton input:hover {
+    background-color: #912D1E;
+}
+.cok-satanlar-2 {
+    margin-top: -630px;
+    margin-left: 470px;
+    border: 1px solid #CCCCCC;
+    background-color: white;
+    width: 360px;
+    height: 630px;
+}
+.cok-satanlar-buton-2 img{
+    float: left;
+    width: 60px;
+    height: 40px;
+}
+.sepetim-buton-2 input {
+
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 25px;
+    width: 100px;
+    height: 40px;
+    background-color: #C0392B;
+    color: white;
+    text-align: center;
+    border: none;
+}
+.sepetim-buton-2 input:hover {
+    background-color: #912D1E;
+}
+.cok-satanlar-3 {
+    margin-top: -630px;
+    margin-left: 870px;
+    border: 1px solid #CCCCCC;
+    background-color: white;
+    width: 360px;
+    height: 630px; 
+}
+
+.cok-satanlar-buton-3 img {
+    float: left;
+    width: 60px;
+    height: 40px;
+}
+.sepetim-buton-3 input {
+    margin-top: 10px;
+    cursor: pointer;
+    margin-left: 40px;
+    width: 100px;
+    height: 40px;
+    background-color: #C0392B;
+    color: white;
+    text-align: center;
+    border: none;
+    margin-top: 25px;
+}
+.sepetim-buton-3 input:hover {
+    background-color: #912D1E;
+}
+.super-firsat-urunler {
+    background-color: #C0392B;
+    width: 1280px;
+    margin: auto;
+    color: white;
+    height: 40px;
+    padding: 5px;
+    padding-right: 0;
+
+}
+
+.footer-ust {
+
+    width: 1280px;
+    border-top: 1px solid black;
+    background-color: #E8E8E8;
+}
+.sutun-1 {
+    width: 400px;
+    margin-left: 30px;
+    color: #8b8b8b;
+}
+.sutun-2 {
+    width: 400px;
+    margin-left: 300px;
+    margin-top: -240px;
+    color: #8b8b8b;
+}
+.sutun-3 {
+    width: 400px;
+    margin-left: 600px;
+    margin-top: -210px;
+    color: #8b8b8b;
+}
+.sutun-4 {
+    width: 400px;
+    margin-left: 850px;
+    margin-top: -180px;
+    color: #8b8b8b;
+}
+
+.reklam-ici {
+    width: 1280px;
+    margin: auto;
+    background-color: #252A2F;
+}
+.reklam-ici img {
+    width: 1200px;
+}
+.footer-en-alt {
+    text-align: center;
+    width: 100%;
+    color: black;
+}
+.filtreler {
+    padding-top: 15px;
+    width: 300px;
+    background-color: white;
+    height: 1620px;
+
+}
+.filtreleme-yazi h2{
+    padding: 10px;
+    text-align: center;
+    color: white;
+    background-color: black;
+
+}
+.kategoriler {
+    border-bottom: 1px solid #CCCCCC;
+}
+.kategoriler p {
+    margin-left: 5px;
+    text-align: left;
+    cursor: pointer;
+}
+.kategoriler p:hover {
+    color: #C0392B;
+}
+.markalar-2 {
+    width: 280px;
+    height: 320px;
+    overflow: scroll;
+}
+.marka-1 p {
+    margin-top: -20px;
+    margin-left: 25px;
+}
+
+.marka-2 p {
+    margin-top: -20px;
+    margin-left: 25px;
+}
+.marka-3 p {
+    margin-top: -20px;
+    margin-left: 25px;
+}
+.marka-4 p {
+    margin-top: -20px;
+    margin-left: 25px;
+}
+.marka-5 p {
+    margin-top: -20px;
+    margin-left: 25px;
+}
+.marka-6 p {
+    margin-top: -20px;
+    margin-left: 25px;
+}
+.marka-7 p {
+    margin-top: -20px;
+    margin-left: 25px;
+}
+.marka-8 p {
+    margin-top: -20px;
+    margin-left: 25px;
+}
+.marka-9 p {
+    margin-top: -20px;
+    margin-left: 25px;
+}
+.marka-10 p {
+    margin-top: -20px;
+    margin-left: 25px;
+}
+.kategoriler input {
+    width: 10px;
+}
+.filtre-1 p {
+    margin-top: -20px;
+    margin-left: 25px;
+}
+.filtre-2 p {
+    margin-top: -20px;
+    margin-left: 25px;
+}
+.markalar-4 {
+    width: 280px;
+    height: 320px;
+    overflow: scroll;
+}
+.sag-icerik {
+    margin-left: 320px;
+    margin-top: -1500px;
+    width: 900px;
+    
+}
+.site-yolu {
+    padding: 1px;
+    cursor: pointer;
+    background-color: white;
+    width: 900px;
+    color: black;
+}
+.site-yolu p:hover {
+    color: #C0392B;
+}
+.bilgi-3 {
+    margin-top: 15px;
+    background-color: #DDDDDD;
+    width: 900px;
+
+}
+.bilgi-3 img {
+    width: 850px;
+}
+.urun-1 {
+    background-color: white;
+    width: 250px;
+    border: 1px solid #CCCCCC;
+    height: 450px;
+}
+.urun-1 img {
+    margin-top: 10px;
+    width: 250px;
+    height: 250px;
+}
+.urun-2 {
+    background-color: white;
+    width: 250px;
+    border: 1px solid #CCCCCC;
+    height: 450px;
+    margin-left: 300px;
+    margin-top: -410px;
+}
+.urun-3 {
+    background-color: white;
+    width: 250px;
+    border: 1px solid #CCCCCC;
+    height: 450px;
+    margin-left: 300px;
+    margin-top: -410px;
+}
+.urun-4 {
+    background-color: white;
+    width: 250px;
+    border: 1px solid #CCCCCC;
+    height: 450px;
+    margin-left: -600px;
+    margin-top: 30px;
+}
+.urun-5 {
+    background-color: white;
+    width: 250px;
+    border: 1px solid #CCCCCC;
+    height: 450px;
+    margin-left: 300px;
+    margin-top: -410px;
+}
+.urun-6 {
+    background-color: white;
+    width: 250px;
+    border: 1px solid #CCCCCC;
+    height: 450px;
+    margin-left: 300px;
+    margin-top: -410px;
+}
+.urun-7 {
+    background-color: white;
+    width: 250px;
+    border: 1px solid #CCCCCC;
+    height: 450px;
+    margin-left: -603px;
+    margin-top: 50px;
+}
+.urun-8 {
+    background-color: white;
+    width: 250px;
+    border: 1px solid #CCCCCC;
+    height: 450px;
+    margin-left: 297px;
+    margin-top: -410px;
+}
+.urun-9 {
+    background-color: white;
+    width: 250px;
+    border: 1px solid #CCCCCC;
+    height: 450px;
+    margin-left: 300px;
+    margin-top: -410px;
+}
+.footer-2-2 {
+
+    width: 1280px;
+    background-color: #DDDDDD;
+    padding-top: 20px;
+    height: 250px;
+}
+.footer-2 {
+    margin-left: -300px;
+    width: 860px;
+    background-color: #DDDDDD;
+    padding-top: 20px;
+    height: 250px;
+}
+.sutun-1-900 {
+    width: 250px;
+    color: #8b8b8b;
+    margin-top: 20px;
+}
+.sutun-2-900 {
+    width: 250px;
+    color: #8b8b8b;
+    margin-left: 250px;
+    margin-top: -245px;
+}
+.sutun-3-900 {
+    width: 250px;
+    color: #8b8b8b;
+    margin-left: 400px;
+    margin-top: -215px;
+}
+.sutun-4-900 {
+    margin-left: 550px;
+    width: 250px;
+    color: #8b8b8b;
+    margin-top: -180px;
+}
+.footer-alt{
+    width: 1280px;
+}
+.footer-alt img{
+    width: 1280px;
+}
+.footer-alt-900 {
+    width: 860px;
+    margin-left: -300px;
+
+}
+.footer-alt {
+    width: 1280px;
+    text-align: center;
+}
+.footer-alt-900 img {
+    width: 860px;
+    height: 100px;
+}
+.footer-alt-900-telif {
+    text-align: center;
+    height: 30px;
+    color: black;
+    width: 860px;
+    background-color: white;
+    margin-left: -300px;
+    margin-top: -15px;
+}
+.filtreler p:hover {
+    cursor: pointer;
+    color: #B83928;
+}
+.site-yolu-2 {
+    background-color: white;
+    width: 1260px;
+    height: 35px;
+    padding-left: 20px;
+}
+.urun-resimi {
+    margin: 25px;
+    width: 490px;
+    height: 490px;
+    border: 1px solid #CCCCCC;
+}
+.urun-resimi img {
+    width: 490px;
+    height: 490px;
+}
+.site-yolu-2 p {
+    padding-top: 10px;
+}
+.site-yolu-2 a {
+    float: left;
+    color: black;
+    margin-left: 1000px;
+    margin-top: -35px;
+}
+.urun-sag-baslik {
+    width: 670px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid black;
+    margin-left: 600px;
+    margin-top: -500px;
+}
+.marka-bilgi {
+    margin-left: 600px;
+    border-bottom: 1px solid black;
+}
+.marka-adi {
+    margin-left: 150px;
+    margin-top: -35px;
+}
+.indirim-orani-2 {
+    margin-left: 150px;
+    margin-top: -35px;
+}
+.fiyatlar {
+    margin-left: 600px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid black;
+}
+.g-fiyat {
+    color: #C0392B;
+    font-size: 24px;
+}
+.g-fiyat-2 {
+    font-size: 24px;
+    color: #C0392B;
+    text-decoration: line-through;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+.kdv {
+    font-size: 10px;
+    color: #8b8b8b;
+    text-decoration: line-through;
+    margin-left: 250px;
+    margin-top: -40px;
+}
+.teslim-suresi {
+    margin-left: 600px;
+}
+.suresi {
+    margin-left: 200px;
+    margin-top: -37px;
+}
+.taksit {
+    margin-left: 600px;
+}
+.sertifika {
+    margin-left: 600px;
+}
+.buton-6 {
+    margin-top: 25px;
+    margin-left: 590px;
+}
+.border {
+    margin-left: 590px;
+    width: 690px;
+    border-bottom: 1px solid black;
+}
+.adet-sayisi {
+    margin-top: 25px;
+    margin-left: 590px;
+}
+.adet-sayisi input {
+    border-radius: 8px;
+    border-color: #DDDDDD;
+    width: 680px;
+    height: 30px;
+}
+.sepete-ekle{
+    margin-top: 30px;
+    margin-left: 600px;
+}
+.sepete-ekle input {
+    border: none;
+    padding: 8px 30px;
+    color: white;
+    cursor: pointer;
+    background-color: #C0392B;
+}
+.sepete-ekle input:hover {
+    background-color: #EA6153;
+}
+.butonlar {
+    margin-top: 25px;
+    margin-left: 590px;
+}
+.butonlar input {
+    border-radius: 8px;
+    margin-left: 10px;
+    cursor: pointer;
+    float: left;
+    background-color: #EA6153;
+    color: white;
+    width: 120px;
+    height: 30px;
+}
+.butonlar input:hover {
+    background-color: #C0392B;
+}
+.tweet
+{   
+    cursor: pointer;
+    margin-left: 590px;
+    margin-top: 70px;
+}
+.urun-menu {
+    margin-top: 150px;
+    width: 1280px;
+}
+.urun-menu p {
+    float: left;
+    padding-left: 25px;
+}
+.border-2 {
+    width: 1280px;
+    border-bottom: 3px solid #EA6153;
+}
+.urun-ozellikleri p{
+    cursor: pointer;
+    padding: 10px;
+    background-color: #C0392B;
+    color: white;
+}
+.yorumlar p {
+    cursor: pointer;
+    padding: 10px;
+    color: #C0392B;
+}
+.odeme-secenekleri p {
+    cursor: pointer;
+    padding: 10px;
+    color: #C0392B;
+}
+.urun-onerileri p {
+    cursor: pointer;
+    padding: 10px;
+    color: #C0392B;
+}
+.urun-menu p:hover{
+    text-decoration: underline;
+}
+.ozellik-icerik {
+    background-color: white;
+}
+.ozellik-icerik {
+    text-align: center;
+    color: #943634;
+}
+.ozellikler-yazi H3 {
+    color: black;
+}
+.ozellikler-2 {
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+.hizalama {
+    margin-left: 100px;
+}
+.footer-3 {
+
+    width: 1280px;
+    margin: auto;
+}
+.footer-alt-3 {
+    width: 1280px;
+    margin: auto;
+}
+.footer-alt-3 img {
+    width: 1280px;
+    margin: auto;
+}
+.footer-alt-3 {
+    text-align: center;
+    width: 1280px;
+
+}
+.marka-foto {
+    float: right;
+    width: 400px;
+}
+.marka-foto img {
+    width: 400px;
+}
+.gc-saatler {
+    width: 500px;
+}
+
+.urun-bilgisi-2 {
+    text-align: left;
+    color: black;
+    margin-left: 20px;
+}
+.urun-bilgisi-3 {
+    text-align: left;
+    color: black;
+    margin-left: 200px;
+    margin-top: -100px;
+}
+.urun-bilgisi-4 {
+    text-align: left;
+    color: black;
+    margin-left: 450px;
+    margin-top: -100px;
+}
+.urun-bilgisi-5 {
+    text-align: left;
+    color: black;
+    margin-left: 450px;
+    margin-top: -100px;
+}
+.urun-bilgisi-6 {
+    text-align: left;
+    color: black;
+    margin-left: 250px;
+    margin-top: -50px;
+}
+.icerik a {
+    text-decoration: none;
+    color: black;
+}
+.giris-yap {
+    background-color: white;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+}
+.giris-yap input {
+    margin-top: 15px;
+    width: 380px;
+    height: 35px;
+    border: 1px solid #8b8b8b;
+}
+.giris-yap button {
+    cursor: pointer;
+    margin-top: 15px;
+    width: 380px;
+    background-color: #EA6153;
+    color: white;
+    height: 40px;
+}
+.giris-yap button:hover {
+    background-color: black;
+    color: white;
+}
+.uye-ol {
+    margin-right: 200px;
+    margin-top: -400px;
+    float: right;
+    width: 400px;
+    background-color: white;
+    height: 800px;
+
+}
+.uye-ol h1 {
+    text-align: center;
+}
+.uye-ol input {
+    width: 380px;
+    height: 35px;
+    margin-top: 15px;
+}
+.uye-ol button {
+    width: 380px;
+    height: 40px;
+    background-color: #EA6153;
+    color: white;
+    margin-top: 50px;
+    cursor: pointer;
+
+}
+.uye-ol button:hover {
+    background-color: black;
+    color: white;
+}
+.onay-kutulari input {
+    width: 10px;
+    float: left;
+}
+.onay-kutulari p{
+    float: left;
+    margin-top: -40px;
+    margin-left: 20px;
+}
